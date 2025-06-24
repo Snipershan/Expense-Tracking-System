@@ -10,7 +10,7 @@ The Expense Management System is a full-stack application designed to help users
 - **requirements.txt**: Lists the Python dependencies
 - **README.txt**: Text version of project info
 
-##Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository:**:
    ```bash
@@ -25,7 +25,7 @@ The Expense Management System is a full-stack application designed to help users
    
 1. **Run the FastAPI server:**:   
    ```commandline
-    uvicorn server.server:app --reload
+    uvicorn server:app --reload
    ```
    
 1. **Run the Streamlit app:**:   
