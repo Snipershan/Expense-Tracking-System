@@ -6,7 +6,7 @@ The Expense Management System is a full-stack application designed to help users
 
 - **backend/**: Contains backend services using FastAPI
 - **frontend/**: Streamlit UI for user interaction
-- **frontend/**: Contains test cases for frontend and backend
+- **tests/**: Contains test cases for frontend and backend
 - **requirements.txt**: Lists the Python dependencies
 - **README.txt**: Text version of project info
 
